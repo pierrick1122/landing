@@ -1,0 +1,29 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("/landing/css/components/banner.css");
+@import url("/landing/css/components/card-apply.css");
+@import url("/landing/css/components/card-bunny.css");
+@import url("/landing/css/components/card-learn.css");
+@import url("/landing/css/components/cards.css");
+@import url("/landing/css/components/container-howitworks.css");
+@import url("/landing/css/components/footer.css");
+@import url("/landing/css/components/footer-social-links.css");
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */

@@ -1,0 +1,29 @@
+.banner {
+  background-image:url("/landing/images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container-banner {
+  margin-left: 200px;
+}
+
+.banner h1 {
+  color: #ffffff;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+.banner p {
+  color: lightgrey;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.banner a {
+  color: white;
+  background-color: #1EDD88;
+  padding: 15px 30px;
+  border-radius: 30px;
+}

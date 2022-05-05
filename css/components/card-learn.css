@@ -1,0 +1,12 @@
+.card-learn img {
+  width: 150px;
+  height: 150px;
+}
+
+.card-learn {
+  border: 1px solid lightgray;
+  padding: 15px 30px;
+  text-align: center;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  width: 300px;
+}

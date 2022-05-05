@@ -1,0 +1,15 @@
+.footer-social-links {
+  display: inline-block;
+  margin-top: 50px;
+  padding: 8px;
+}
+
+.footer-social-links i {
+  color: #1EDD88;
+  font-size: 30px;
+}
+
+.footer-ul {
+ list-style-type: none;
+ padding: 0;
+}
